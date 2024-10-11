@@ -1,0 +1,7 @@
+Create a virtual environment using the venv module. use the following commands:- 
+1. python -m venv venv
+2. venv\Scripts\activate
+
+Now install tkinter and mysql-connector using following commands: 
+1. pip install tk             
+2. pip install mysql-connector-python
