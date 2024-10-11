@@ -9,8 +9,8 @@ import time
 def create_connection():
     return mysql.connector.connect(
         host='localhost',
-        user='root',  # Change this
-        password='P@y@L-29',  # Change this
+        user='your_username',  # Change this
+        password='your_password',  # Change this
         database='todo_list'
     )
 
